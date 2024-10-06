@@ -1,2 +1,2 @@
-# reactとfirebaseを使った簡単なLINEのクローンです。
+# ReactとFirebaseを使った簡単なLINEのCloneです。
 **レイアウトにはcssとmaterial uiを用いてます。**
